@@ -8,5 +8,7 @@ How many hours did it take to complete?
 Which required and optional stories have you completed?
 
 --> Settings
+
 --> Navigation Controller
+
 --> Persisting the default setting value across app restarts
