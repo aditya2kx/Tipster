@@ -12,3 +12,7 @@ Which required and optional stories have you completed?
 --> Navigation Controller
 
 --> Persisting the default setting value across app restarts
+
+
+
+/Users/adi2ky/Documents/Tipster Recording.gif
