@@ -15,4 +15,4 @@ Which required and optional stories have you completed?
 
 
 
-/Users/adi2ky/Documents/Tipster Recording.gif
+![alt tag] (https://github.com/aditya2kx/Tipster/blob/master/Tipster%20Recording.gif) 
